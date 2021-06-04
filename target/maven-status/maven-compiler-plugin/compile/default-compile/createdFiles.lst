@@ -1,0 +1,7 @@
+amazon\pages\utils\FieldEntries.class
+amazon\DriverFactory.class
+amazon\pages\ResultsPage.class
+amazon\pages\HomePage.class
+amazon\pages\ItemPage.class
+amazon\BaseTestClass.class
+amazon\pages\ShoppingCart.class
